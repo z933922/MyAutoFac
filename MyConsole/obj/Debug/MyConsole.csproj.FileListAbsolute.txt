@@ -1,0 +1,8 @@
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\MyConsole.exe.config
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\MyConsole.exe
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\MyConsole.pdb
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Autofac.dll
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Autofac.xml
+D:\工作\工作\Test\WebApplication1\MyConsole\obj\Debug\MyConsole.csprojResolveAssemblyReference.cache
+D:\工作\工作\Test\WebApplication1\MyConsole\obj\Debug\MyConsole.exe
+D:\工作\工作\Test\WebApplication1\MyConsole\obj\Debug\MyConsole.pdb
