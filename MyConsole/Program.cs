@@ -48,12 +48,13 @@ namespace MyConsole
             Container= builder.Build();
 
 
-            builder.RegisterModule(new ConfigurationSettingsReader());
+           // builder.RegisterModule(new ConfigurationSettingsReader());
 
             using (var scope=Container.BeginLifetimeScope())
             {
                 //   var showmethod = scope.Resolve<IMY>();
                 // showmethod.MyWrite("哈哈");
+                // 如果有多级的话 推荐使用多级beginlifescope  释放内存要快些
 
                 var blea = scope.Resolve<Iserver>();
             }

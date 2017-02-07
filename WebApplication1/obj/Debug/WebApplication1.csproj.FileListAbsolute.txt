@@ -110,3 +110,8 @@ D:\工作\工作\Test\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Web
 D:\工作\工作\Test\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 D:\工作\工作\Test\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 D:\工作\工作\Test\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\工作\工作\Test\WebApplication1\WebApplication1\bin\Autofac.dll
+D:\工作\工作\Test\WebApplication1\WebApplication1\bin\Autofac.Integration.Mvc.dll
+D:\工作\工作\Test\WebApplication1\WebApplication1\bin\Autofac.xml
+D:\工作\工作\Test\WebApplication1\WebApplication1\bin\Autofac.Integration.Mvc.xml
+D:\工作\工作\Test\WebApplication1\WebApplication1\bin\zh-Hans\System.Web.Http.Owin.resources.dll

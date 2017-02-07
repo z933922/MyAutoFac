@@ -1,0 +1,16 @@
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\MyConsole.exe.config
+D:\工作\工作\Test\WebApplication1\MyConsole\obj\Debug\MyConsole.exe
+D:\工作\工作\Test\WebApplication1\MyConsole\obj\Debug\MyConsole.pdb
+D:\工作\工作\Test\WebApplication1\MyConsole\obj\Debug\MyAutoFac.csprojResolveAssemblyReference.cache
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\MyConsole.exe
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\MyConsole.pdb
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Autofac.Configuration.dll
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Autofac.dll
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Autofac.xml
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Autofac.Configuration.xml
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\工作\工作\Test\WebApplication1\MyConsole\bin\Debug\Microsoft.Extensions.Primitives.xml
