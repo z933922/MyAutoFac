@@ -71,6 +71,7 @@ namespace api.Controllers
         public IHttpActionResult Logout()
         {
             Authentication.SignOut(CookieAuthenticationDefaults.AuthenticationType);
+           
             return Ok();
         }
 

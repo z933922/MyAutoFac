@@ -8,6 +8,7 @@ using System.Web.Http;
 namespace api.Controllers
 {
 
+    [Authorize]
     [RoutePrefix("api")]   //     [RouteArea("Admin")]这个的目的是 这个路由的前缀是 api/myapi
 
     public class MyApiController : ApiController
@@ -16,6 +17,7 @@ namespace api.Controllers
         [HttpGet]
         public string Index()
         {
+          
             return "12321";
         }
 
